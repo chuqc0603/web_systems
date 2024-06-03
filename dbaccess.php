@@ -41,5 +41,5 @@ Last Acess Time<br><br>
 <?php foreach ($rec as $a):?>
          <?=escape2($a)?><br>
 <?php endforeach; ?>
-</body>
+<br>add comment by chuqingchi</body>
 </html>
